@@ -1,0 +1,24 @@
+{
+  "name": "fastestcoderfirst",
+  "version": "1.0.0",
+  "description": "[![demo](./assets/Screenshot%202023-06-24%20144206.png)](https://www.youtube.com/watch?v=DlyIlsMeq1Q \"Demo\")",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fastest-Coder-First/Vyavastha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fastest-Coder-First/Vyavastha/issues"
+  },
+  "homepage": "https://github.com/Fastest-Coder-First/Vyavastha#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
